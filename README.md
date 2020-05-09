@@ -26,10 +26,10 @@ If you'd prefer to see a video tutorial you can watch it [here](https://www.yout
 Just double click the .exe and you're up and running!
 
 ### Linux
-Please see the mac/linux branch [here](https://github.com/jackbayliss/Mission-Chief-Bot/tree/Linux-%26-Mac-OS)
+Please see the mac/linux branch [here](https://github.com/jackbayliss/Mission-Chief-Bot/tree/mac)
  
  ### Mac
-Please see the mac/linux branch [here](https://github.com/jackbayliss/Mission-Chief-Bot/tree/Linux-%26-Mac-OS)
+Please see the mac/linux branch [here](https://github.com/jackbayliss/Mission-Chief-Bot/tree/mac)
 
 
 ## Issues / Bugs / Errors
