@@ -14,23 +14,15 @@ Find the scan report of the exe [here](https://www.virustotal.com/gui/file-analy
 
 
 ## How to use
-If you'd prefer to see a video tutorial you can watch it [here](https://www.youtube.com/watch?v=9adxIIqONTw) or follow the below:
-
-1. Download the code [here](https://github.com/jackbayliss/Mission-Chief-Bot/archive/master.zip), then extract the files to a folder of your choice (Just keep the files together)
-
-2. Once done open the `config.ini` inside the config folder and replace corresponding `username` and `password` with your account information, and `server` with the country  your account is registered on such as `uk`. All working countries will be in the `server.ini`
+1. Ensure you have Python>=3.8.2 installed
+2. Download the code [here](https://github.com/jackbayliss/Mission-Chief-Bot/archive/Linux-&-Mac-OS.zip), then extract the files to a folder of your choice (Just keep the files together)
+3. CD into the file directory and do:
+``` pip install -r requirements.txt ``` this will install the requirements for you.
+4. Once done open the `config.ini` inside the config folder and replace corresponding `username` and `password` with your account information, and `server` with the country  your account is registered on such as `uk`. All working countries will be in the `server.ini`
+5. Do ``` py MissionChiefBot.py ``` or the alternative python3/python etc.
+6. Enjoy
 
 `missions_per_run` is the amount of missions it will do per batch, so if it finds 100 missions and you've set it to 50 it will *ONLY* do 50. Set `show_own `to true if you want to ignore alliance missions, else set it to false.
-
-### Windows
-Just double click the .exe and you're up and running!
-
-### Linux
-Please see the mac/linux branch [here](https://github.com/jackbayliss/Mission-Chief-Bot/tree/Linux-%26-Mac-OS)
- 
- ### Mac
-Please see the mac/linux branch [here](https://github.com/jackbayliss/Mission-Chief-Bot/tree/Linux-%26-Mac-OS)
-
 
 ## Issues / Bugs / Errors
 
