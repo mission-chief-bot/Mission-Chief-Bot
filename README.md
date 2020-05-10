@@ -22,6 +22,28 @@ If you'd prefer to see a video tutorial you can watch it [here](https://www.yout
 
 `missions_per_run` is the amount of missions it will do per batch, so if it finds 100 missions and you've set it to 50 it will *ONLY* do 50. Set `show_own `to true if you want to ignore alliance missions, else set it to false.
 
+## How to use 24/7 via server
+
+1. First of all I'd recommened setting up a Digital Ocean account, or any other cloud provider that you can use Docker with. You can set an account for Digital Ocean [here](https://m.do.co/c/741cf5923606) (It's a referral link)
+
+(Make sure you install docker if you're going outside of DO)
+
+2. Once you've signed up to Digital Ocean simply create a droplet. You can install docker straight to it via the marketplace so i'd suggest doing that. (You can use any droplet, this will work on the smallest $5 A month one)
+
+3. Connect into the droplet, you can do this via going to the Access Console or alternatively SSH into the droplet.
+
+4. Once you're in type in `docker pull jjbayliss/mission-chief-v2`, let it run it'll set up the image for the bot. 
+ 
+5. Once the image is done simply run `docker run -it -d jjbayliss/mission-chief-v2`. This will create a container for you.
+
+6. Run `docker ps -a` and copy the name of your container there should only be one, then run `docker exec -it [container name] bash` this will take you into the container in a bash.
+
+7. You should be brought straight into a container, all you'll need to do is `cd Mission-Chief-Bot` and then do `vim config.ini` 
+You'll want to press the `I` key to edit the document, and add your username, password and region etc. Once done press `ESC` and type `:wq` this will save the document.
+
+8. Run `python3 MissionChiefBot.py` to run the base bot, and you're done!
+
+9. To exit the docker container press `CTRL + D`, and if you need to enter the bot again just follow from step 6.
 ### Windows
 Just double click the .exe and you're up and running!
 
