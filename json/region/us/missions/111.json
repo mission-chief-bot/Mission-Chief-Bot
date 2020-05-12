@@ -1,1 +1,1 @@
-{"missionId": "111", "missionName": "Stabbing", "requirements": [{"requirement": "police cars", "qty": "5"}, {"requirement": "ambulance", "qty": "6"}]}
+{"missionId": "111", "missionName": "Stabbing", "requirements": [{"requirement": "police cars", "qty": "5"}, {"requirement": "max. patients", "qty": "6"}]}

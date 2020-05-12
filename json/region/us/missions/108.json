@@ -1,1 +1,1 @@
-{"missionId": "108", "missionName": "Anaphylaxis", "requirements": [{"requirement": "ambulance", "qty": "1"}]}
+{"missionId": "108", "missionName": "Anaphylaxis", "requirements": [{"requirement": "max. patients", "qty": "1"}]}

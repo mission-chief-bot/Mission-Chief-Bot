@@ -1,0 +1,1 @@
+{"missionId": "523", "missionName": "Medizinischer Notfall in Flugzeug", "requirements": [{"requirement": "rettungstreppen", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "1"}]}

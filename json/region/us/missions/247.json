@@ -1,1 +1,1 @@
-{"missionId": "247", "missionName": "Possible Sepsis", "requirements": [{"requirement": "ambulance", "qty": "1"}]}
+{"missionId": "247", "missionName": "Possible Sepsis", "requirements": [{"requirement": "max. patients", "qty": "1"}]}
