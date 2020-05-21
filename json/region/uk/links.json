@@ -1,7 +1,7 @@
 {
     "fire engines" : [0, 1, 16, 17],
     "aerial appliance trucks": [2, 17],
-    "fire officers": [3],
+    "fire officers": [3, 15],
     "rescue support vehicles" : [4, 16],
     "max. patients" : [5],
     "ambulance" : [5],
