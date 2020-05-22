@@ -1,7 +1,7 @@
-# Free Mission Chief Bot
+# Free Mission Chief Bot ![MissionChiefBot](https://img.shields.io/github/v/release/jackbayliss/Mission-Chief-Bot.svg) [![Discord](https://img.shields.io/discord/703655404885901393.svg?label=Join%20Our%20Discord&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/zxSwN8Z)
+![Mission Chief Bot](https://camo.githubusercontent.com/7ebf2f540206248fc4ee737e4d6989d7c4f9920e/68747470733a2f2f692e696d6775722e636f6d2f645a52336e686d2e676966)
+A bot written to automate the general despatching jobs of the bot, simply follow the guide and let it run. No fee to pay, no license required.
 
-![Mission Chief Bot Example](https://i.imgur.com/dZR3nhm.gif)
-A bot written to automate the general despatching jobs of the bot, simply follow the guide and let it run. No fee to pay, no license required. 
 
 This was made to combat the issue of the [older bot](https://github.com/codesidian/Python-MissionChiefBot) being slow, and also difficult for users to install. Everything is there ready for the user at one click of a button.
 Find the scan report of the exe [here](https://www.virustotal.com/gui/file-analysis/ODM5NDNhYjMzNjgwNjI0MDQ2ZDcwNTE4ODZkOTIzNjM6MTU4Nzc3NzYwMQ==/detection) incase you're worried it's a virus. 
@@ -21,6 +21,17 @@ If you'd prefer to see a video tutorial you can watch it [here](https://www.yout
 2. Once done open the `config.ini` inside the config folder and replace corresponding `username` and `password` with your account information, and `server` with the country  your account is registered on such as `uk`. All working countries will be in the `server.ini`
 
 `missions_per_run` is the amount of missions it will do per batch, so if it finds 100 missions and you've set it to 50 it will *ONLY* do 50. Set `show_own `to true if you want to ignore alliance missions, else set it to false.
+
+
+### Windows
+Just double click the .exe and you're up and running!
+
+### Linux
+Please see the mac/linux branch [here](https://github.com/jackbayliss/Mission-Chief-Bot/tree/mac)
+ 
+ ### Mac
+Please see the mac/linux branch [here](https://github.com/jackbayliss/Mission-Chief-Bot/tree/mac)
+
 
 ## How to use 24/7 via server
 
@@ -44,15 +55,6 @@ You'll want to press the `I` key to edit the document, and add your username, pa
 8. Run `python3 MissionChiefBot.py` to run the base bot, and you're done!
 
 9. To exit the docker container press `CTRL + D`, and if you need to enter the bot again just follow from step 6.
-### Windows
-Just double click the .exe and you're up and running!
-
-### Linux
-Please see the mac/linux branch [here](https://github.com/jackbayliss/Mission-Chief-Bot/tree/mac)
- 
- ### Mac
-Please see the mac/linux branch [here](https://github.com/jackbayliss/Mission-Chief-Bot/tree/mac)
-
 
 ## Issues / Bugs / Errors
 
