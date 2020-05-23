@@ -1,3 +1,4 @@
 colorama>=0.4.3
 beautifulsoup4>=4.9.0
 requests>=2.23.0
+lmxl>=4.5.1
