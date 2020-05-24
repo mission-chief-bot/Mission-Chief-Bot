@@ -1,4 +1,4 @@
-# Free Mission Chief Bot ![MissionChiefBot](https://img.shields.io/github/v/release/jackbayliss/Mission-Chief-Bot.svg) [![Discord](https://img.shields.io/discord/703655404885901393.svg?label=Join%20Our%20Discord&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/zxSwN8Z)
+# Free Mission Chief Bot ![MissionChiefBot](https://img.shields.io/github/v/release/jackbayliss/Mission-Chief-Bot.svg) [![Discord](https://img.shields.io/discord/703655404885901393.svg?label=Join%20Our%20Discord&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/Kp8PtPK)
 ![Mission Chief Bot](https://camo.githubusercontent.com/7ebf2f540206248fc4ee737e4d6989d7c4f9920e/68747470733a2f2f692e696d6775722e636f6d2f645a52336e686d2e676966)
 A bot written to automate the general despatching jobs of the bot, simply follow the guide and let it run. No fee to pay, no license required.
 
