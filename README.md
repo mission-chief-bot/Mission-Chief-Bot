@@ -1,6 +1,25 @@
 # Free Mission Chief Bot ![MissionChiefBot](https://img.shields.io/github/v/release/jackbayliss/Mission-Chief-Bot.svg) [![Discord](https://img.shields.io/discord/703655404885901393.svg?label=Join%20Our%20Discord&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/Kp8PtPK)
 ![Mission Chief Bot](https://camo.githubusercontent.com/7ebf2f540206248fc4ee737e4d6989d7c4f9920e/68747470733a2f2f692e696d6775722e636f6d2f645a52336e686d2e676966)
-A bot written to automate the general despatching jobs of the bot, simply follow the guide and let it run. No fee to pay, no license required.
+
+
+A Mission Chief bot written to automate the general despatching jobs of the bot, simply follow the guide and let it run. No fee to pay, no license required.
+
+## Supported Servers
+![au](https://img.shields.io/badge/-AU-green)
+![de](https://img.shields.io/badge/-DE-green)
+![fr](https://img.shields.io/badge/-FR-green)
+![it](https://img.shields.io/badge/-IT-green)
+![nl](https://img.shields.io/badge/-NL-green)
+![pl](https://img.shields.io/badge/-PL-green)
+![pt](https://img.shields.io/badge/-PT-green)
+![ro](https://img.shields.io/badge/-RO-green)
+![ru](https://img.shields.io/badge/-RU-green)
+![tu](https://img.shields.io/badge/-TU-green)
+![uk](https://img.shields.io/badge/-UK-green)
+![us](https://img.shields.io/badge/-US-green)
+
+Your region missing? Ask in Discord or create an issue.
+
 
 
 This was made to combat the issue of the [older bot](https://github.com/codesidian/Python-MissionChiefBot) being slow, and also difficult for users to install. Everything is there ready for the user at one click of a button.
