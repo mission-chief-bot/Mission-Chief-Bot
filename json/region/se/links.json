@@ -1,0 +1,12 @@
+{
+    "sl\u00e4ckbilar" : [0,1],
+    "stegbilar" :  [2],
+    "brandbef\u00e4l" : [3],
+    "lastv\u00e4xlare" : [4],
+    "mest patienter" : [5],
+    "tankbilar" : [6],
+    "farligt gods-fordon" : [7],
+    "polisbilar": [8],
+    "polishelikoptrar" : [9]
+
+}
