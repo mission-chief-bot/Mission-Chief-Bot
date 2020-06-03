@@ -14,9 +14,11 @@ A Mission Chief bot written to automate the general despatching jobs of the bot,
 ![pt](https://img.shields.io/badge/-PT-green)
 ![ro](https://img.shields.io/badge/-RO-green)
 ![ru](https://img.shields.io/badge/-RU-green)
+![se](https://img.shields.io/badge/-SE-green)
 ![tu](https://img.shields.io/badge/-TU-green)
 ![uk](https://img.shields.io/badge/-UK-green)
 ![us](https://img.shields.io/badge/-US-green)
+
 
 Your region missing? Ask in Discord or create an issue.
 
