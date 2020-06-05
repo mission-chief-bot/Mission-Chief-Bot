@@ -1,4 +1,5 @@
-# Free Mission Chief Bot ![MissionChiefBot](https://img.shields.io/github/v/release/jackbayliss/Mission-Chief-Bot.svg) [![Discord](https://img.shields.io/discord/703655404885901393.svg?label=Join%20Our%20Discord&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/Kp8PtPK)
+# Free Mission Chief Bot ![GitHub All Releases](https://img.shields.io/github/downloads/jackbayliss/Mission-Chief-Bot/total?style=for-the-badge) ![MissionChiefBot](https://img.shields.io/github/v/release/jackbayliss/Mission-Chief-Bot?style=for-the-badge) [![Discord](https://img.shields.io/discord/703655404885901393.svg?label=Join%20Our%20Discord&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/Kp8PtPK)
+
 ![Mission Chief Bot](https://camo.githubusercontent.com/7ebf2f540206248fc4ee737e4d6989d7c4f9920e/68747470733a2f2f692e696d6775722e636f6d2f645a52336e686d2e676966)
 
 
@@ -27,7 +28,7 @@ Your region missing? Ask in Discord or create an issue.
 This was made to combat the issue of the [older bot](https://github.com/codesidian/Python-MissionChiefBot) being slow, and also difficult for users to install. Everything is there ready for the user at one click of a button.
 Find the scan report of the exe [here](https://www.virustotal.com/gui/file-analysis/ODM5NDNhYjMzNjgwNjI0MDQ2ZDcwNTE4ODZkOTIzNjM6MTU4Nzc3NzYwMQ==/detection) incase you're worried it's a virus. 
 
-## Features
+## Features 
 - Send only a batch of missions at a time - set `missions_per_run ` to the amount required in your `config.ini`.
 - Super fast, the bot is built with speed in mind! With the ability to despatch around 131 missions in around **6 minutes**.
 - Multiple domains supported, .co.uk, .com, .it.
