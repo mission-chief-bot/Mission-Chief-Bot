@@ -1,4 +1,4 @@
-# Free Mission Chief Bot ![GitHub All Releases](https://img.shields.io/github/downloads/jackbayliss/Mission-Chief-Bot/total?style=for-the-badge) ![MissionChiefBot](https://img.shields.io/github/v/release/jackbayliss/Mission-Chief-Bot?style=for-the-badge) [![Discord](https://img.shields.io/discord/703655404885901393.svg?label=Join%20Our%20Discord&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/Kp8PtPK)
+# Free Mission Chief Bot ![GitHub All Releases](https://img.shields.io/github/downloads/jackbayliss/Mission-Chief-Bot/total?style=for-the-badge) ![MissionChiefBot](https://img.shields.io/github/v/release/jackbayliss/Mission-Chief-Bot?style=for-the-badge) ![Discord](https://img.shields.io/discord/703655404885901393.svg?label=Discord&style=for-the-badge&color=7289DA)
 
 ![Mission Chief Bot](https://camo.githubusercontent.com/7ebf2f540206248fc4ee737e4d6989d7c4f9920e/68747470733a2f2f692e696d6775722e636f6d2f645a52336e686d2e676966)
 
