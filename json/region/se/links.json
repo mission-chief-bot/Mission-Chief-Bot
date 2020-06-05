@@ -7,6 +7,6 @@
     "tankbilar" : [6],
     "farligt gods-fordon" : [7],
     "polisbilar": [8],
-    "polishelikoptrar" : [9]
-
+    "polishelikoptrar" : [9],
+    "fordon med luftapparater" : [10]
 }
