@@ -4,8 +4,9 @@
     "wildland fire engines": [30, 31, 32, 33],
     "battalion chief vehicles": [3,12],
     "heavy rescue vehicles" : [4,18,8],
-    "ambulance" : [5, 27],
-    "max. patients" : [5, 27],
+    "ambulance" : [5, 11],
+    "ambulances" : [5, 11, 27]
+    "max. patients" : [5, 11],
     "water tankers": [7],
     "hazmat vehicles": [9],
     "police cars" : [10,19,26],
