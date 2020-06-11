@@ -1,4 +1,20 @@
-# Free Mission Chief Bot ![GitHub All Releases](https://img.shields.io/github/downloads/jackbayliss/Mission-Chief-Bot/total?style=for-the-badge) ![MissionChiefBot](https://img.shields.io/github/v/release/jackbayliss/Mission-Chief-Bot?style=for-the-badge) ![Discord](https://img.shields.io/discord/703655404885901393.svg?label=Discord&style=for-the-badge&color=7289DA)
+![GitHub All Releases](https://img.shields.io/github/downloads/jackbayliss/Mission-Chief-Bot/total?style=for-the-badge) ![MissionChiefBot](https://img.shields.io/github/v/release/jackbayliss/Mission-Chief-Bot?style=for-the-badge) ![Discord](https://img.shields.io/discord/703655404885901393.svg?label=Discord&style=for-the-badge&color=7289DA)
+
+# Free Mission Chief Bot 
+<sub><sup>missionchief-australia bot</sup></sub> 
+<sub><sup>leitstellenspiel bot</sup></sub>
+<sub><sup>alarmcentral-spil bot</sup></sub>
+<sub><sup>operateur112 bot</sup></sub>
+<sub><sup>meldkamerspel bot</sup></sub>
+<sub><sup>nodsentralspillet bot</sup></sub>
+<sub><sup>operatorratunkowy bot</sup></sub>
+<sub><sup>larmcentralen-spelet bot</sup></sub>
+<sub><sup>dispetcher112 bot</sup></sub>
+<sub><sup>jocdispecerat112 bot</sup></sub>
+<sub><sup>operador112 bot</sup></sub>
+<sub><sup>112-merkez bot</sup></sub>
+
+
 
 ![Mission Chief Bot](https://camo.githubusercontent.com/7ebf2f540206248fc4ee737e4d6989d7c4f9920e/68747470733a2f2f692e696d6775722e636f6d2f645a52336e686d2e676966)
 
@@ -8,6 +24,7 @@ A Mission Chief bot written to automate the general despatching jobs of the bot,
 ## Supported Servers
 ![au](https://img.shields.io/badge/-AU-green)
 ![de](https://img.shields.io/badge/-DE-green)
+![dk](https://img.shields.io/badge/-DK-green)
 ![fr](https://img.shields.io/badge/-FR-green)
 ![it](https://img.shields.io/badge/-IT-green)
 ![nl](https://img.shields.io/badge/-NL-green)
@@ -21,7 +38,7 @@ A Mission Chief bot written to automate the general despatching jobs of the bot,
 ![us](https://img.shields.io/badge/-US-green)
 
 
-Your region missing? Ask in Discord or create an issue.
+Is your region missing? Ask in Discord or create an issue.
 
 
 
@@ -29,10 +46,16 @@ This was made to combat the issue of the [older bot](https://github.com/codesidi
 Find the scan report of the exe [here](https://www.virustotal.com/gui/file-analysis/ODM5NDNhYjMzNjgwNjI0MDQ2ZDcwNTE4ODZkOTIzNjM6MTU4Nzc3NzYwMQ==/detection) incase you're worried it's a virus. 
 
 ## Features 
+- Anti detection features, randomized timings with the ability to be set by the user for all tasks.
+- Auto transport patients, and prisoners.
+- Ability to complete alliance missions.
+- Automatically despatches the closest units.
+- Only sends the exact requirements, rather than leaving your missions incomplete.
 - Send only a batch of missions at a time - set `missions_per_run ` to the amount required in your `config.ini`.
 - Super fast, the bot is built with speed in mind! With the ability to despatch around 131 missions in around **6 minutes**.
-- Multiple domains supported, .co.uk, .com, .it.
+- Multiple domains supported.
 - Multiple accounts at one time, just create another bot in another folder and off you go.
+- Transparent and legit development team.
 
 
 ## How to use
@@ -74,7 +97,7 @@ Please see the mac/linux branch [here](https://github.com/jackbayliss/Mission-Ch
 7. You should be brought straight into a container, all you'll need to do is `cd Mission-Chief-Bot` and then do `vim config.ini` 
 You'll want to press the `I` key to edit the document, and add your username, password and region etc. Once done press `ESC` and type `:wq` this will save the document.
 
-8. Run `python3 MissionChiefBot.py` to run the base bot, and you're done!
+8. Run `python3 MissionChiefBot.py` to run the base bot, and you're done! (bare in mind you'll need to run git pull to update the repo)
 
 9. To exit the docker container press `CTRL + D`, and if you need to enter the bot again just follow from step 6.
 
