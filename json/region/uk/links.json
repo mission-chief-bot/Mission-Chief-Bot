@@ -14,5 +14,6 @@
     "HEMS": [9],
     "rapid response vehicle": [10],
     "police helicopters": [11],
-    "armed response vehicle (ARV)": [13]
+    "armed response vehicle (ARV)": [13],
+    "armed response personnel" : [13]
 }
