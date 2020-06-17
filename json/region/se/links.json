@@ -8,5 +8,8 @@
     "farligt gods-fordon" : [7],
     "polisbilar": [8],
     "polishelikoptrar" : [9],
-    "fordon med luftapparater" : [10]
+    "fordon med luftapparater" : [10],
+    "Räddningsbil" : [12],
+    "hundenheter" : [15],
+    "ledningsfordon" : [11]
 }
