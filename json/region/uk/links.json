@@ -14,7 +14,7 @@
     "HEMS": [9],
     "rapid response vehicle": [10],
     "police helicopters": [11],
-    "critical care": [19],
+    "critical care": [19, 10],
     "operational team leaders": [20],
     "armed response vehicle (ARV)": [13],
     "armed response personnel": [13]
