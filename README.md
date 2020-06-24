@@ -94,8 +94,7 @@ Please see the mac/linux branch [here](https://github.com/jackbayliss/Mission-Ch
 
 6. Run `docker ps -a` and copy the name of your container there should only be one, then run `docker exec -it [container name] bash` this will take you into the container in a bash.
 
-7. You should be brought straight into a container, all you'll need to do is `cd Mission-Chief-Bot` and then do `vim config.ini` 
-You'll want to press the `I` key to edit the document, and add your username, password and region etc. Once done press `ESC` and type `:wq` this will save the document.
+7. You should be brought straight into a container, all you'll need to do is `cd Mission-Chief-Bot` and then type `git pull origin mac` this will update the bot to the newest version. Next do `vim config.ini` you'll want to press the `I` key to edit the document, and add your username, password and region etc. Once done press `ESC` and type `:wq` this will save the document.
 
 8. Run `python3 MissionChiefBot.py` to run the base bot, and you're done! (bare in mind you'll need to run git pull to update the repo)
 
