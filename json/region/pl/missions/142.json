@@ -1,1 +1,1 @@
-{"missionId": "142", "missionName": "Ucieczka wi\u0119\u017ania", "requirements": [{"requirement": "radiowozy", "qty": "10"}]}
+{"missionId": "142", "missionName": "Ucieczka wi\u0119\u017ania", "requirements": [{"requirement": "jednostki k-9", "qty": "1"}, {"requirement": "radiowozy", "qty": "10"}, {"requirement": "helikopteru policyjnego", "qty": "1"}]}

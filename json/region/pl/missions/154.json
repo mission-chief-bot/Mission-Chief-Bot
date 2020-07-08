@@ -1,1 +1,1 @@
-{"missionId": "154", "missionName": "Najazd na dom", "requirements": [{"requirement": "radiowozy", "qty": "4"}]}
+{"missionId": "154", "missionName": "Najazd na dom", "requirements": [{"requirement": "radiowozy", "qty": "4"}, {"requirement": "helikopteru policyjnego", "qty": "1"}, {"requirement": "jednostki k-9", "qty": "1"}]}

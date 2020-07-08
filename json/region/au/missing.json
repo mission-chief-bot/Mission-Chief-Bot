@@ -1,0 +1,13 @@
+ {
+"fire engines": [0, 1],
+"support vehicles": [3],
+"water carriers":[6],
+"turntable ladder trucks": [2],
+"police cars":[8],
+"major rescue vehicles": [4],
+"max. patients":[5],
+"basu": [10],
+"police helicopters":  [14],
+"k-9 units": [16],
+"hazmat units": [7]
+}

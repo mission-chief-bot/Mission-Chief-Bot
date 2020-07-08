@@ -1,1 +1,1 @@
-{"missionId": "145", "missionName": "Oczekuj\u0105cy nakaz", "requirements": [{"requirement": "radiowozy", "qty": "3"}]}
+{"missionId": "145", "missionName": "Oczekuj\u0105cy nakaz", "requirements": [{"requirement": "radiowozy", "qty": "3"}, {"requirement": "helikopteru policyjnego", "qty": "1"}]}
