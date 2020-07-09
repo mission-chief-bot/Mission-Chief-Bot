@@ -1,10 +1,14 @@
 {
-  "caminh\u00f5es de bombeiro necess\u00e1rios": [0,1],
+  "veículo de combate a incêndios necess\u00e1rios": [0,1],
+  "veículos de combate a incêndios" : [0,1],
+  "caminhões de bombeiro necess\u00e1rios" : [0,1],
   "caminh\u00f5es plataforma necess\u00e1rios": [2],
   "viaturas de batalh\u00e3o necess\u00e1rias" : [3],
   "ve\u00edculos de resgate pesado necess\u00e1rios" : [4],
   "m\u00e1x. de pacientes" : [5],
   "caminh\u00f5es pipa necess\u00e1rios" : [6],
-  "viaturas de produtos perigosos necess\u00e1rias" : [7],
-  "viaturas de pol\u00edcia necess\u00e1rias": [8]
+  "veaturas de materias perigosas" : [7],
+  "veículos para matérias perigosas" : [7],
+  "viaturas de pol\u00edcia necess\u00e1rias": [8],
+  "veículos de matérias perigosas necessários" : [7]
 }
