@@ -118,8 +118,8 @@ This is to mainly prevent the developers of the website seeing exactly how the b
 
 If you'd like to contribute please feel free to contact me via PM or email. If you check out I'd be more than happy to share the source code, in which you can contribute.
 
-## Donations
-Although this bot is completely free and there's no cost, if you'd like to support the Bot you can [buy me a beer](https://www.paypal.me/jackbaylissdev) :beer:
+## Purchasing 
+The bot is completely free for versions 0.0.9.8.1 and below- for the new version it's a 'pay what you can system'- so if you sponsor me for as little as $1 a month you'll get access. I regularly check sponsors, and add users and remove users as such.
 
 ## License
 
