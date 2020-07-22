@@ -84,25 +84,7 @@ Please see the mac/linux branch [here](https://github.com/jackbayliss/Mission-Ch
 
 ## How to use 24/7 via server
 
-1. First of all I'd recommened setting up a Digital Ocean account, or any other cloud provider that you can use Docker with. You can set an account for Digital Ocean [here](https://m.do.co/c/741cf5923606) (It's a referral link)
-
-(Make sure you install docker if you're going outside of DO)
-
-2. Once you've signed up to Digital Ocean simply create a droplet. You can install docker straight to it via the marketplace so i'd suggest doing that. (You can use any droplet, this will work on the smallest $5 A month one)
-
-3. Connect into the droplet, you can do this via going to the Access Console or alternatively SSH into the droplet.
-
-4. Once you're in type in `docker pull jjbayliss/mission-chief-v2`, let it run it'll set up the image for the bot. 
- 
-5. Once the image is done simply run `docker run -it -d jjbayliss/mission-chief-v2`. This will create a container for you.
-
-6. Run `docker ps -a` and copy the name of your container there should only be one, then run `docker exec -it [container name] bash` this will take you into the container in a bash.
-
-7. You should be brought straight into a container, all you'll need to do is `cd Mission-Chief-Bot` and then type `git checkout -f` followed by `git pull origin mac` this will update the bot to the newest version. Next do `vim config.ini` you'll want to press the `I` key to edit the document, and add your username, password and region etc. Once done press `ESC` and type `:wq` this will save the document.
-
-8. Run `python3 MissionChiefBot.py` to run the base bot, and you're done! (bare in mind you'll need to run git pull to update the repo)
-
-9. To exit the docker container press `CTRL + D`, and if you need to enter the bot again just follow from step 6.
+For 24/7 running queries, see the [wiki](https://github.com/jackbayliss/Mission-Chief-Bot/wiki) on the right hand side.
 
 ## Issues / Bugs / Errors
 
