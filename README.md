@@ -1,6 +1,6 @@
 ![GitHub All Releases](https://img.shields.io/github/downloads/jackbayliss/Mission-Chief-Bot/total?style=for-the-badge) ![MissionChiefBot](https://img.shields.io/github/v/release/jackbayliss/Mission-Chief-Bot?style=for-the-badge) ![Discord](https://img.shields.io/discord/703655404885901393.svg?label=Discord&style=for-the-badge&color=7289DA)
 
-# Free Mission Chief Bot 
+# Mission Chief Bot 
 <sub><sup>missionchief-australia bot</sup></sub> 
 <sub><sup>leitstellenspiel bot</sup></sub>
 <sub><sup>alarmcentral-spil bot</sup></sub>
