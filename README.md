@@ -67,6 +67,10 @@ If you'd prefer to see a video tutorial you can watch it [here](https://www.yout
 
 `missions_per_run` is the amount of missions it will do per batch, so if it finds 100 missions and you've set it to 50 it will *ONLY* do 50. Set `show_own `to true if you want to ignore alliance missions, else set it to false.
 
+## Free Vs Sponsored 
+The bot is completely free for versions `0.0.9.8.1` and below- for the new version it's a 'pay what you can system'- so if you sponsor me for as little as $1 a month you'll get access to the new versions, this gives you more features than free versions that will gradually be added, as well as quicker replies / fixes where possible. 
+
+I regularly check sponsors, and add users and remove users.. You can see the sponsor system via GitHub [here](https://github.com/sponsors/jackbayliss) allowing you to privately or publicly sponsor me.
 
 ### Windows
 Just double click the .exe and you're up and running!
@@ -118,8 +122,6 @@ This is to mainly prevent the developers of the website seeing exactly how the b
 
 If you'd like to contribute please feel free to contact me via PM or email. If you check out I'd be more than happy to share the source code, in which you can contribute.
 
-## Purchasing 
-The bot is completely free for versions 0.0.9.8.1 and below- for the new version it's a 'pay what you can system'- so if you sponsor me for as little as $1 a month you'll get access. I regularly check sponsors, and add users and remove users as such.
 
 ## License
 
