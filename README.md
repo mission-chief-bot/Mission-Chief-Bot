@@ -70,7 +70,7 @@ If you'd prefer to see a video tutorial you can watch it [here](https://www.yout
 ## Free Vs Sponsored 
 The bot is completely free for versions `0.0.9.8.1` and below- for the new version it's a 'pay what you can system'- so if you sponsor me for as little as $1 a month you'll get access to the new versions, this gives you more features than free versions that will gradually be added, as well as quicker replies / fixes where possible. 
 
-I regularly check sponsors, and add users and remove users.. You can see the sponsor system via GitHub [here](https://github.com/sponsors/jackbayliss) allowing you to privately or publicly sponsor me. Be aware I will require your mission chief username in order to give you access. If you'd rather not let me know it feel free to use the free version.
+I regularly check sponsors, and add users and remove users.. You can see the sponsor system via GitHub [here](https://github.com/sponsors/jackbayliss) allowing you to privately or publicly sponsor me. Be aware I will require your mission chief username in order to give you access so please send it me via email, or Discord message. If you'd rather not let me know it feel free to use the free version.
 
 ### Windows
 Just double click the .exe and you're up and running!
