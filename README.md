@@ -1,6 +1,6 @@
 ![GitHub All Releases](https://img.shields.io/github/downloads/jackbayliss/Mission-Chief-Bot/total?style=for-the-badge) ![MissionChiefBot](https://img.shields.io/github/v/release/jackbayliss/Mission-Chief-Bot?style=for-the-badge) ![Discord](https://img.shields.io/discord/703655404885901393.svg?label=Discord&style=for-the-badge&color=7289DA)
 
-# Free Mission Chief Bot 
+# Mission Chief Bot 
 <sub><sup>missionchief-australia bot</sup></sub> 
 <sub><sup>leitstellenspiel bot</sup></sub>
 <sub><sup>alarmcentral-spil bot</sup></sub>
@@ -61,12 +61,16 @@ Find the scan report of the exe [here](https://www.virustotal.com/gui/file-analy
 ## How to use
 If you'd prefer to see a video tutorial you can watch it [here](https://www.youtube.com/watch?v=9adxIIqONTw) or follow the below:
 
-1. Download the code [here](https://github.com/jackbayliss/Mission-Chief-Bot/archive/master.zip), then extract the files to a folder of your choice (Just keep the files together)
+1. Download the code if you're a sponsor [here](https://github.com/jackbayliss/Mission-Chief-Bot/archive/master.zip), or if you're a free user download [0.0.9.8.1](https://github.com/jackbayliss/Mission-Chief-Bot/releases/tag/0.0.9.8.1) then extract the files to a folder of your choice (Just keep the files together)
 
 2. Once done open the `config.ini` inside the config folder and replace corresponding `username` and `password` with your account information, and `server` with the country  your account is registered on such as `uk`. All working countries will be in the `server.ini`
 
 `missions_per_run` is the amount of missions it will do per batch, so if it finds 100 missions and you've set it to 50 it will *ONLY* do 50. Set `show_own `to true if you want to ignore alliance missions, else set it to false.
 
+## Free Vs Sponsored 
+The bot is completely free for versions `0.0.9.8.1` and below- for the new version it's a 'pay what you can system'- so if you sponsor me for as little as $1 a month you'll get access to the new versions, this gives you more features than the free version, as well as quicker replies / fixes where possible. 
+
+I regularly check sponsors, and add users and remove users.. You can see the sponsor system via GitHub [here](https://github.com/sponsors/jackbayliss) allowing you to privately or publicly sponsor me. Be aware I will require your mission chief username in order to give you access so please send it me via email, or Discord message. If you'd rather not let me know it feel free to use the free version.
 
 ### Windows
 Just double click the .exe and you're up and running!
@@ -80,25 +84,7 @@ Please see the mac/linux branch [here](https://github.com/jackbayliss/Mission-Ch
 
 ## How to use 24/7 via server
 
-1. First of all I'd recommened setting up a Digital Ocean account, or any other cloud provider that you can use Docker with. You can set an account for Digital Ocean [here](https://m.do.co/c/741cf5923606) (It's a referral link)
-
-(Make sure you install docker if you're going outside of DO)
-
-2. Once you've signed up to Digital Ocean simply create a droplet. You can install docker straight to it via the marketplace so i'd suggest doing that. (You can use any droplet, this will work on the smallest $5 A month one)
-
-3. Connect into the droplet, you can do this via going to the Access Console or alternatively SSH into the droplet.
-
-4. Once you're in type in `docker pull jjbayliss/mission-chief-v2`, let it run it'll set up the image for the bot. 
- 
-5. Once the image is done simply run `docker run -it -d jjbayliss/mission-chief-v2`. This will create a container for you.
-
-6. Run `docker ps -a` and copy the name of your container there should only be one, then run `docker exec -it [container name] bash` this will take you into the container in a bash.
-
-7. You should be brought straight into a container, all you'll need to do is `cd Mission-Chief-Bot` and then type `git checkout -f` followed by `git pull origin mac` this will update the bot to the newest version. Next do `vim config.ini` you'll want to press the `I` key to edit the document, and add your username, password and region etc. Once done press `ESC` and type `:wq` this will save the document.
-
-8. Run `python3 MissionChiefBot.py` to run the base bot, and you're done! (bare in mind you'll need to run git pull to update the repo)
-
-9. To exit the docker container press `CTRL + D`, and if you need to enter the bot again just follow from step 6.
+For 24/7 running queries, see the [wiki](https://github.com/jackbayliss/Mission-Chief-Bot/wiki) on the right hand side.
 
 ## Issues / Bugs / Errors
 
@@ -118,8 +104,6 @@ This is to mainly prevent the developers of the website seeing exactly how the b
 
 If you'd like to contribute please feel free to contact me via PM or email. If you check out I'd be more than happy to share the source code, in which you can contribute.
 
-## Purchasing 
-The bot is completely free for versions 0.0.9.8.1 and below- for the new version it's a 'pay what you can system'- so if you sponsor me for as little as $1 a month you'll get access. I regularly check sponsors, and add users and remove users as such.
 
 ## License
 
