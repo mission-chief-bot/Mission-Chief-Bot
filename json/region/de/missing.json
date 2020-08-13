@@ -34,7 +34,9 @@
 	"mek-zf" : [81],
 	"mek-mtf" : [82],
 	"thw-einsatzleitung" : [40],
+	"thw-einsatzleitung (mtw tz)" : [40],
 	"mzkw" : [41],
+	"thw-mehrzweckkraftwagen (mzkw)" : [41],
 	"polizeihubschrauber" : [61],
 	"rettungstreppen" : [76],
 	"rettungswache" : [38, 74],
@@ -59,5 +61,3 @@
 	"lkw 7 lkr 19 tm" : [65],
 	"gw-mess" : [12]
 }
-
-
