@@ -66,6 +66,10 @@ If you'd prefer to see a video tutorial you can watch it [here](https://www.yout
 2. Once done open the `config.ini` inside the config folder and replace corresponding `username` and `password` with your account information, and `server` with the country  your account is registered on such as `uk`. All working countries will be in the `server.ini`
 
 `missions_per_run` is the amount of missions it will do per batch, so if it finds 100 missions and you've set it to 50 it will *ONLY* do 50. Set `show_own `to true if you want to ignore alliance missions, else set it to false.
+### Main files
+- MissionChiefBot - This is the main bot, this will run the despatching tasks etc.
+- Restarter - This effectively is a cradle for the MissionChiefBot- if it major crashes (i.e exits) at all the bot will be auto restart. Usually good for people that want to run it while they're asleep etc.
+- generate - This is in charge of grabbing new missions and the data, make sure you manually run this every time there's new missions.
 
 ## Free Vs Sponsored 
 The bot is completely free for versions `0.0.9.8.1` and below- for the new version it's a 'pay what you can system'- so if you sponsor me for as little as $1 a month you'll get access to the new versions, this gives you more features than the free version, as well as quicker replies / fixes where possible. 
