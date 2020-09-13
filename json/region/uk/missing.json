@@ -21,5 +21,6 @@
     "armed response personnel": [13],
     "rescue support unit or rescue pump": [4, 16],
     "water carrier": [6],
-    "fire engines": [0, 1, 16, 17]
+    "fire engines": [0, 1, 16, 17],
+    "operational team leader": [20]
 }
