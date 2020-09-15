@@ -61,7 +61,7 @@ Find the scan report of the exe [here](https://www.virustotal.com/gui/file-analy
 ## How to use
 If you'd prefer to see a video tutorial you can watch it [here](https://www.youtube.com/watch?v=9adxIIqONTw) or follow the below:
 
-1. Download the code if you're a sponsor [here](https://github.com/jackbayliss/Mission-Chief-Bot/archive/master.zip), or if you're a free user download [0.0.9.8.1](https://github.com/jackbayliss/Mission-Chief-Bot/releases/tag/0.0.9.8.1) then extract the files to a folder of your choice (Just keep the files together)
+1. Download the code if you're a sponsor [here](https://github.com/jackbayliss/Mission-Chief-Bot/archive/master.zip) then extract the files to a folder of your choice (Just keep the files together)
 
 2. Once done open the `config.ini` inside the config folder and replace corresponding `username` and `password` with your account information, and `server` with the country  your account is registered on such as `uk`. All working countries will be in the `server.ini`
 
@@ -71,10 +71,10 @@ If you'd prefer to see a video tutorial you can watch it [here](https://www.yout
 - Restarter - This effectively is a cradle for the MissionChiefBot- if it major crashes (i.e exits) at all the bot will be auto restart. Usually good for people that want to run it while they're asleep etc.
 - generate - This is in charge of grabbing new missions and the data, make sure you manually run this every time there's new missions.
 
-## Free Vs Sponsored 
-The bot is completely free for versions `0.0.9.8.1` and below- for the new version it's a 'pay what you can system'- so if you sponsor me for as little as $1 a month you'll get access to the new versions, this gives you more features than the free version, as well as quicker replies / fixes where possible. 
+## Sponsored 
+The bot is no longer free- for the new version it's a 'pay what you can system'- so if you sponsor me for as little as $1 a month you'll get access to the new versions, this gives you more features, as well as quicker replies / fixes where possible. The free version is no longer a thing, as it's unhealthy for the Mission Chief Community- with it being free it means more and more people will download it. Where as with premium people will be less likely to pay.
 
-I regularly check sponsors, and add users and remove users.. You can see the sponsor system via GitHub [here](https://github.com/sponsors/jackbayliss) allowing you to privately or publicly sponsor me. Be aware I will require your mission chief username in order to give you access so please send it me via email, or Discord message. If you'd rather not let me know it feel free to use the free version.
+I regularly check sponsors, and add users and remove users.. You can see the sponsor system via GitHub [here](https://github.com/sponsors/jackbayliss) allowing you to privately or publicly sponsor me. Be aware I will require your mission chief username in order to give you access so please send it me via email, or Discord message.
 
 ### Windows
 Just double click the .exe and you're up and running!
