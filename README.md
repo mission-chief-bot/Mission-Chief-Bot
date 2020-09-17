@@ -23,6 +23,7 @@ A Mission Chief bot written to automate the general despatching jobs of the bot,
 
 ## Supported Servers
 ![au](https://img.shields.io/badge/-AU-green)
+![cz](https://img.shields.io/badge/-CZ-green)
 ![de](https://img.shields.io/badge/-DE-green)
 ![dk](https://img.shields.io/badge/-DK-green)
 ![fr](https://img.shields.io/badge/-FR-green)
