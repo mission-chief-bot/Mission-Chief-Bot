@@ -17,5 +17,6 @@
     "critical care": [19, 10],
     "operational team leaders": [20],
     "armed response vehicle (ARV)": [13],
-    "armed response personnel": [13]
+    "armed response personnel": [13],
+    "traffic cars" : [24]
 }
