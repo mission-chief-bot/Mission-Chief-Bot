@@ -34,6 +34,7 @@
     "operational team leader": [20],
     "armed response vehicle (ARV)": [13],
     "armed response personnel": [13],
-    "rescue support unit or rescue pump": [4, 16]
-     
+    "rescue support unit or rescue pump": [4, 16],
+    "traffic car": [24],
+    "traffic cars": [24]     
 }
