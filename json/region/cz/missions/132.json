@@ -1,1 +1,1 @@
-{"missionId": "132", "missionName": "Nouzov\u00e9 otev\u0159en\u00ed bytu", "requirements": [{"requirement": "cisternov\u00e9 automobilov\u00e9 st\u0159\u00edka\u010dky", "qty": "1"}, {"requirement": "policejn\u00ed automobily", "qty": "1"}]}
+{"missionId": "132", "missionName": "Nouzové otevření bytu", "requirements": [{"requirement": "ambulance", "qty": 1}]}

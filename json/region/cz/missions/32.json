@@ -1,1 +1,1 @@
-{"missionId": "32", "missionName": "Po\u017e\u00e1r \u017eac\u00edho stroje", "requirements": [{"requirement": "cisternov\u00e9 automobilov\u00e9 st\u0159\u00edka\u010dky", "qty": "2"}]}
+{"missionId": "32", "missionName": "Požár žacího stroje", "requirements": [{"requirement": "ambulance", "qty": 1}]}

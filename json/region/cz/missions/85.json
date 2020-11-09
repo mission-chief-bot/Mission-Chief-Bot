@@ -1,1 +1,1 @@
-{"missionId": "85", "missionName": "Dopravn\u00ed nehoda motocyklu", "requirements": [{"requirement": "cisternov\u00e9 automobilov\u00e9 st\u0159\u00edka\u010dky", "qty": "3"}, {"requirement": "velitelsk\u00e9 automobily", "qty": "1"}, {"requirement": "policejn\u00ed automobily", "qty": "1"}]}
+{"missionId": "85", "missionName": "Dopravní nehoda motocyklu", "requirements": [{"requirement": "ambulance", "qty": 1}]}

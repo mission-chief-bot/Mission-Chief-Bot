@@ -1,1 +1,1 @@
-{"missionId": "201", "missionName": "Dolore addominale", "requirements": [{"requirement": "max pazienti", "qty": "1"}]}
+{"missionId": "201", "missionName": "Dolore addominale", "requirements": [{"requirement": "max pazienti", "qty": "1"}, {"requirement": "possibili estensioni ospedaliere", "qty": "Chirurgia generaleGastroenterologia"}]}

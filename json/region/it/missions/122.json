@@ -1,1 +1,1 @@
-{"missionId": "122", "missionName": "Incendio mensa scolastica", "requirements": [{"requirement": "aps/abp", "qty": "2"}, {"requirement": "unit\u00e0 polisoccorso", "qty": "1"}, {"requirement": "max pazienti", "qty": "8"}]}
+{"missionId": "122", "missionName": "Incendio mensa scolastica", "requirements": [{"requirement": "aps/abp", "qty": "2"}, {"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "max pazienti", "qty": "8"}, {"requirement": "possibili estensioni ospedaliere", "qty": "Medicina interna generaleTraumatologia"}]}

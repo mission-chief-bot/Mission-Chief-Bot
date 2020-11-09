@@ -1,1 +1,1 @@
-{"missionId": "112", "missionName": "P\u0159ik\u00e1zan\u00e1 pohotovost", "requirements": [{"requirement": "policejn\u00ed automobily", "qty": "3"}, {"requirement": "policejn\u00ed vrtuln\u00edky", "qty": "1"}]}
+{"missionId": "112", "missionName": "Přikázaná pohotovost", "requirements": [{"requirement": "ambulance", "qty": 1}]}

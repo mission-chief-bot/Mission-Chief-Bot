@@ -1,1 +1,1 @@
-{"missionId": "157", "missionName": "Media protesta violenta", "requirements": [{"requirement": "pattuglie", "qty": "6"}, {"requirement": "max pazienti", "qty": "5"}]}
+{"missionId": "157", "missionName": "Media protesta violenta", "requirements": [{"requirement": "pattuglie", "qty": "6"}, {"requirement": "max pazienti", "qty": "5"}, {"requirement": "possibili estensioni ospedaliere", "qty": "Medicina interna generaleTraumatologia"}]}

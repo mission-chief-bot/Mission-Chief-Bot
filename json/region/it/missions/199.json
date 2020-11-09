@@ -1,1 +1,1 @@
-{"missionId": "199", "missionName": "Cambio catetere", "requirements": [{"requirement": "max pazienti", "qty": "1"}]}
+{"missionId": "199", "missionName": "Cambio catetere", "requirements": [{"requirement": "max pazienti", "qty": "1"}, {"requirement": "possibili estensioni ospedaliere", "qty": "Chirurgia generaleUrologia"}]}

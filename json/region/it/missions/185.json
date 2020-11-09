@@ -1,1 +1,1 @@
-{"missionId": "185", "missionName": "Colpo di calore", "requirements": [{"requirement": "max pazienti", "qty": "1"}]}
+{"missionId": "185", "missionName": "Colpo di calore", "requirements": [{"requirement": "max pazienti", "qty": "1"}, {"requirement": "possibili estensioni ospedaliere", "qty": "Medicina interna generale"}]}

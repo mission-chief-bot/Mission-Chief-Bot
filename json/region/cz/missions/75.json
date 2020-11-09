@@ -1,1 +1,1 @@
-{"missionId": "75", "missionName": "D\u00edt\u011b zam\u010den\u00e9 ve vozidle", "requirements": [{"requirement": "cisternov\u00e9 automobilov\u00e9 st\u0159\u00edka\u010dky", "qty": "1"}, {"requirement": "policejn\u00ed automobily", "qty": "1"}]}
+{"missionId": "75", "missionName": "Dítě zamčené ve vozidle", "requirements": [{"requirement": "ambulance", "qty": 1}]}

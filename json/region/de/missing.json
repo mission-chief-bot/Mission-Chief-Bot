@@ -49,7 +49,6 @@
 	"tauchkraftwagen" : [69],
 	"teleskopmasten" : [85],
 	"turbolöscher" : [86],
-	"tragehilfe (z.b. durch ein lf)" : [0],
 	"ulf mit löscharm" : [84],
 	"wasserwerfer" : [72],
 	"mlw 5" : [45],
@@ -59,7 +58,8 @@
 	"ktw typ b" : [58],
 	"gw-wasserrettung" : [64],
 	"lkw 7 lkr 19 tm" : [65],
-	"gw-mess" : [12]
+	"gw-mess" : [12],
+	"lna":[55]
 }
 
 

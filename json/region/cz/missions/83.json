@@ -1,1 +1,1 @@
-{"missionId": "83", "missionName": "Po\u017e\u00e1r velk\u00e9 farmy", "requirements": [{"requirement": "cisternov\u00e9 automobilov\u00e9 st\u0159\u00edka\u010dky", "qty": "9"}, {"requirement": "velitelsk\u00e9 automobily", "qty": "2"}, {"requirement": "automobilov\u00e9 \u017eeb\u0159\u00edky", "qty": "3"}, {"requirement": "kombinovan\u00e9 has\u00edc\u00ed automobily", "qty": "3"}]}
+{"missionId": "83", "missionName": "Požár velké farmy", "requirements": [{"requirement": "ambulance", "qty": 1}]}
