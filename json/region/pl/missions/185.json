@@ -1,1 +1,1 @@
-{"missionId": "185", "missionName": "Poszukiwania zaginionej osoby", "requirements": [{"requirement": "samochody po\u017carnicze", "qty": "3"}, {"requirement": "samochody oficera operacyjnego lub slrr", "qty": "1"}, {"requirement": "radiowozy", "qty": "1"}, {"requirement": "maks. pacjenci", "qty": "1"}]}
+{"missionId": "185", "missionName": "Poszukiwania zaginionej osoby", "requirements": [{"requirement": "samochody pożarnicze", "qty": "3"}, {"requirement": "slop lub slrr", "qty": "1"}, {"requirement": "radiowozy", "qty": "1"}, {"requirement": "maks. pacjenci", "qty": "1"}]}

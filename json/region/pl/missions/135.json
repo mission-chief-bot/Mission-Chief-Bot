@@ -1,1 +1,1 @@
-{"missionId": "135", "missionName": "Po\u017car silosu", "requirements": [{"requirement": "samochody po\u017carnicze", "qty": "4"}, {"requirement": "sp wysoko\u015bciowe", "qty": "1"}, {"requirement": "samochody oficera operacyjnego lub slrr", "qty": "2"}]}
+{"missionId": "135", "missionName": "Pożar silosu", "requirements": [{"requirement": "samochody pożarnicze", "qty": "4"}, {"requirement": "sh lub sd", "qty": "1"}, {"requirement": "slop lub slrr", "qty": "2"}]}

@@ -1,1 +1,1 @@
-{"missionId": "5", "missionName": "Po\u017car pomieszczenia", "requirements": [{"requirement": "samochody po\u017carnicze", "qty": "2"}, {"requirement": "sp wysoko\u015bciowe", "qty": "1"}, {"requirement": "maks. pacjenci", "qty": "1"}]}
+{"missionId": "5", "missionName": "Pożar pomieszczenia", "requirements": [{"requirement": "samochody pożarnicze", "qty": "2"}, {"requirement": "sh lub sd", "qty": "1"}, {"requirement": "maks. pacjenci", "qty": "1"}]}
