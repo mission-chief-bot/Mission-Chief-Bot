@@ -1,1 +1,1 @@
-{"missionId": "59", "missionName": "Z\u00e1chrana zv\u00ed\u0159ete", "requirements": [{"requirement": "cisternov\u00e9 automobilov\u00e9 st\u0159\u00edka\u010dky", "qty": "1"}, {"requirement": "ta", "qty": "1"}]}
+{"missionId": "59", "missionName": "Záchrana zvířete", "requirements": [{"requirement": "ambulance", "qty": 1}]}

@@ -1,1 +1,1 @@
-{"missionId": "20", "missionName": "Po\u017car piwnicy", "requirements": [{"requirement": "samochody oficera operacyjnego lub slrr", "qty": "1"}, {"requirement": "samochody po\u017carnicze", "qty": "3"}, {"requirement": "maks. pacjenci", "qty": "2"}]}
+{"missionId": "20", "missionName": "Pożar piwnicy", "requirements": [{"requirement": "slop lub slrr", "qty": "1"}, {"requirement": "samochody pożarnicze", "qty": "3"}, {"requirement": "maks. pacjenci", "qty": "2"}]}

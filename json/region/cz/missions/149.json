@@ -1,1 +1,1 @@
-{"missionId": "149", "missionName": "Po\u017e\u00e1r vlakov\u00e9 soupravy", "requirements": [{"requirement": "cisternov\u00e9 automobilov\u00e9 st\u0159\u00edka\u010dky", "qty": "4"}, {"requirement": "velitelsk\u00e9 automobily", "qty": "3"}, {"requirement": "kombinovan\u00e9 has\u00edc\u00ed automobily", "qty": "1"}, {"requirement": "mobiln\u00ed opera\u010dn\u00ed st\u0159ediska", "qty": "1"}, {"requirement": "protiplynov\u00e9 automobily", "qty": "1"}]}
+{"missionId": "149", "missionName": "Požár vlakové soupravy", "requirements": [{"requirement": "ambulance", "qty": 1}]}

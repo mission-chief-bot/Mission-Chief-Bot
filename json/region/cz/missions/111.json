@@ -1,1 +1,1 @@
-{"missionId": "111", "missionName": "Poh\u0159e\u0161ovan\u00e1 osoba", "requirements": [{"requirement": "policejn\u00ed automobily", "qty": "5"}, {"requirement": "cisternov\u00e9 automobilov\u00e9 st\u0159\u00edka\u010dky", "qty": "2"}, {"requirement": "velitelsk\u00e9 automobily", "qty": "1"}, {"requirement": "policejn\u00ed vrtuln\u00edky", "qty": "1"}]}
+{"missionId": "111", "missionName": "Pohřešovaná osoba", "requirements": [{"requirement": "ambulance", "qty": 1}]}

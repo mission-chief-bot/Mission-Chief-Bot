@@ -1,1 +1,1 @@
-{"missionId": "31", "missionName": "Po\u017e\u00e1r krbu", "requirements": [{"requirement": "velitelsk\u00e9 automobily", "qty": "1"}, {"requirement": "automobilov\u00e9 \u017eeb\u0159\u00edky", "qty": "1"}, {"requirement": "cisternov\u00e9 automobilov\u00e9 st\u0159\u00edka\u010dky", "qty": "1"}]}
+{"missionId": "31", "missionName": "Požár krbu", "requirements": [{"requirement": "ambulance", "qty": 1}]}

@@ -1,1 +1,1 @@
-{"missionId": "217", "missionName": "Podpalacz", "requirements": [{"requirement": "samochody po\u017carnicze", "qty": "2"}, {"requirement": "samochody oficera operacyjnego lub slrr", "qty": "2"}, {"requirement": "radiowozy", "qty": "2"}]}
+{"missionId": "217", "missionName": "Podpalacz", "requirements": [{"requirement": "samochody pożarnicze", "qty": "2"}, {"requirement": "slop lub slrr", "qty": "2"}, {"requirement": "radiowozy", "qty": "2"}]}

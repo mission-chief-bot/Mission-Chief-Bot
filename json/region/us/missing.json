@@ -21,6 +21,7 @@
     "swat armoured vehicles": [16],
     "swat personnel": [16,26],
     "police helicopters": [14],
+    "boat": [21, 22],
     "large fireboat": [24],
     "large rescue boat": [25],
     "police bike": [23],
@@ -28,6 +29,5 @@
     "ems rescue": [28],
     "fly car": [15],
     "air ambulance": [11],
-    "arff": [17],
-    "sherrifs": [47]
+    "arff": [17]
 }

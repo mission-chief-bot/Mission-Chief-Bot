@@ -1,1 +1,1 @@
-{"missionId": "190", "missionName": "Overdose", "requirements": [{"requirement": "pattuglie", "qty": "1"}, {"requirement": "max pazienti", "qty": "1"}]}
+{"missionId": "190", "missionName": "Overdose", "requirements": [{"requirement": "pattuglie", "qty": "1"}, {"requirement": "max pazienti", "qty": "1"}, {"requirement": "possibili estensioni ospedaliere", "qty": "Medicina interna generale"}]}
