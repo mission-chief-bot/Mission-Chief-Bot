@@ -75,10 +75,8 @@ If you'd prefer to see a video tutorial you can watch it [here](https://www.yout
 - Restarter - This effectively is a cradle for the MissionChiefBot- if it major crashes (i.e exits) at all the bot will be auto restart. Usually good for people that want to run it while they're asleep etc.
 - generate - This is in charge of grabbing new missions and the data, make sure you manually run this every time there's new missions.
 
-## Sponsored 
-The bot is no longer free- for the new version it's a 'pay what you can system'- so if you sponsor me for as little as $1 a month you'll get access to the new versions, this gives you more features, as well as quicker replies / fixes where possible. The free version is no longer a thing, as it's unhealthy for the Mission Chief Community- with it being free it means more and more people will download it. Where as with premium people will be less likely to pay.
-
-I regularly check sponsors, and add users and remove users.. You can see the sponsor system via GitHub [here](https://github.com/sponsors/jackbayliss) allowing you to privately or publicly sponsor me. Be aware I will require your mission chief username in order to give you access so please send it me via email, or Discord message.
+## Premium 
+The bot is no longer free- for the new version it's a 'pay what you can system'-  Everything is monitored via [the site](https://missionchiefbot.com) where you can manage, update and cancel your subscription at any time. This repo is generally for updates.
 
 ### Windows
 Just double click the .exe and you're up and running!
