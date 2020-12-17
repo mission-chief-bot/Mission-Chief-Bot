@@ -14,12 +14,12 @@ Find the scan report of the exe [here](https://www.virustotal.com/gui/file-analy
 
 
 ## How to use
-1. Ensure you have Python>=3.8.2 installed STRICTLY, it will not work with another version.
+1. Ensure you have Python 3.9 installed STRICTLY, it will not work with another version.
 2. Download the code [here](https://github.com/jackbayliss/Mission-Chief-Bot/archive/Linux-&-Mac-OS.zip), then extract the files to a folder of your choice (Just keep the files together) - or use apt-get install git, and clone the repo.
 3. CD into the file directory and do:
-``` python3.8 -m pip install -r requirements.txt ``` this will install the requirements for you.
+``` python3.9 -m pip install -r requirements.txt ``` this will install the requirements for you.
 4. Once done open the `config.ini` inside the config folder and replace corresponding `username` and `password` with your account information, and `server` with the country  your account is registered on such as `uk`. All working countries will be in the `server.ini`
-5. Do ``` python3.8 MissionChiefBot.py ```
+5. Do ``` python3.9 MissionChiefBot.py ```
 6. Enjoy
 
 `missions_per_run` is the amount of missions it will do per batch, so if it finds 100 missions and you've set it to 50 it will *ONLY* do 50. Set `show_own `to true if you want to ignore alliance missions, else set it to false.
