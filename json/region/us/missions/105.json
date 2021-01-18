@@ -1,1 +1,1 @@
-{"missionId": "105", "missionName": "Active Shooter", "requirements": [{"requirement": "police cars", "qty": "4"}, {"requirement": "police helicopters", "qty": "1"}, {"requirement": "swat personnel", "qty": "24"}, {"requirement": "max. patients", "qty": "10"}]}
+{"missionId": "105", "missionName": "Active Shooter", "requirements": [{"requirement": "police cars", "qty": "4"}, {"requirement": "police helicopters", "qty": "1"}, {"requirement": "swat personnel", "qty": "24"}, {"requirement": "ems chief", "qty": "1"}, {"requirement": "max. patients", "qty": "10"}]}
