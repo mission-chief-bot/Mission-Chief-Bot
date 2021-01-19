@@ -1,4 +1,4 @@
-![GitHub All Releases](https://img.shields.io/github/downloads/jackbayliss/Mission-Chief-Bot/total?style=for-the-badge) ![MissionChiefBot](https://img.shields.io/github/v/release/jackbayliss/Mission-Chief-Bot?style=for-the-badge) ![Discord](https://img.shields.io/discord/703655404885901393.svg?label=Discord&style=for-the-badge&color=7289DA)
+![MissionChiefBot](https://img.shields.io/github/v/release/jackbayliss/Mission-Chief-Bot?style=for-the-badge) ![Discord](https://img.shields.io/discord/703655404885901393.svg?label=Discord&style=for-the-badge&color=7289DA)
 
 # Mission Chief Bot 
 <sub><sup>missionchief-australia bot</sup></sub> 
@@ -42,7 +42,23 @@ The bot is exclusively now being delivered via the [Mission Chief Bot Website](h
 ![uk](https://img.shields.io/badge/-UK-green)
 ![us](https://img.shields.io/badge/-US-green)
 
-
+## Supported URLS
+- https://www.missionchief-australia.com/
+- https://www.operacni-stredisko.cz/
+- https://www.leitstellenspiel.de/
+- https://www.alarmcentral-spil.dk/
+- https://www.centro-de-mando.es/
+- https://www.operateur112.fr/
+- https://www.operatore112.it/
+- https://www.meldkamerspel.com/
+- https://www.operatorratunkowy.pl/
+- https://www.larmcentralen-spelet.se/
+- https://www.missionchief.co.uk/
+- https://www.missionchief.com/
+- https://www.dispetcher112.ru/
+- https://www.jocdispecerat112.com/
+- https://www.operador112.com/
+- https://www.112-merkez.com/
 
 
 **USE AT YOUR OWN RISK**
