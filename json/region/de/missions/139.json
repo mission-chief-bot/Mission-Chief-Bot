@@ -1,1 +1,1 @@
-{"missionId": "139", "missionName": "Flächenbrand", "requirements": [{"requirement": "gw l 2 wasser", "qty": "1"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "löschfahrzeuge", "qty": "1"}]}
+{"missionId": "139", "missionName": "Flächenbrand", "requirements": [{"requirement": "gw l 2 wasser", "qty": "1"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "3500"}

@@ -1,1 +1,1 @@
-{"missionId": "311", "missionName": "Mitarbeiter unter PKW eingeklemmt", "requirements": [{"requirement": "rüstwagen", "qty": "1"}, {"requirement": "löschfahrzeuge", "qty": "2"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "1"}]}
+{"missionId": "311", "missionName": "Mitarbeiter unter PKW eingeklemmt", "requirements": [{"requirement": "rüstwagen", "qty": "1"}, {"requirement": "löschfahrzeuge", "qty": "2"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "1100"}

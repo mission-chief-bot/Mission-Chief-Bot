@@ -1,1 +1,1 @@
-{"missionId": "25", "missionName": "Accident Voie Publique", "requirements": [{"requirement": "véhicule de secours routier", "qty": "1"}, {"requirement": "fourgons d’incendie", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}]}
+{"missionId": "25", "missionName": "Accident Voie Publique", "requirements": [{"requirement": "véhicule de secours routier", "qty": "1"}, {"requirement": "fourgons d’incendie", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}], "credits": "1000"}

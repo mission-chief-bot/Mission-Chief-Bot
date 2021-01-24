@@ -1,1 +1,1 @@
-{"missionId": "39", "missionName": "\u0416\u0430\u0440", "requirements": [{"requirement": "\u043c\u0430\u043a\u0441. \u043f\u0430\u0446\u0438\u0435\u043d\u0442\u044b", "qty": "1"}]}
+{"missionId": "39", "missionName": "Жар", "requirements": [{"requirement": "макс. пациенты", "qty": "1"}], "credits": "3"}

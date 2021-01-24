@@ -1,1 +1,1 @@
-{"missionId": "392", "missionName": "Person durch Hubmaschine eingeklemmt", "requirements": [{"requirement": "löschfahrzeuge", "qty": "2"}, {"requirement": "rüstwagen", "qty": "1"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "1"}]}
+{"missionId": "392", "missionName": "Person durch Hubmaschine eingeklemmt", "requirements": [{"requirement": "löschfahrzeuge", "qty": "2"}, {"requirement": "rüstwagen", "qty": "1"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "1900"}

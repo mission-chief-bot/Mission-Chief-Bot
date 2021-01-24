@@ -1,1 +1,1 @@
-{"missionId": "135", "missionName": "Pożar silosu", "requirements": [{"requirement": "samochody pożarnicze", "qty": "4"}, {"requirement": "sh lub sd", "qty": "1"}, {"requirement": "slop lub slrr", "qty": "2"}]}
+{"missionId": "135", "missionName": "Pożar silosu", "requirements": [{"requirement": "samochody pożarnicze", "qty": "4"}, {"requirement": "sh lub sd", "qty": "1"}, {"requirement": "slop lub slrr", "qty": "2"}], "credits": "8"}

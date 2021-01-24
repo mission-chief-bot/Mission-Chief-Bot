@@ -1,1 +1,1 @@
-{"missionId": "20", "missionName": "Feu de cave", "requirements": [{"requirement": "chefs de groupe", "qty": "1"}, {"requirement": "fourgons d’incendie", "qty": "3"}, {"requirement": "max. patients", "qty": "2"}]}
+{"missionId": "20", "missionName": "Feu de cave", "requirements": [{"requirement": "chefs de groupe", "qty": "1"}, {"requirement": "fourgons d’incendie", "qty": "3"}, {"requirement": "max. patients", "qty": "2"}], "credits": "2500"}

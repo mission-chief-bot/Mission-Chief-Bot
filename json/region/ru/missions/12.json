@@ -1,1 +1,1 @@
-{"missionId": "12", "missionName": "\u0414\u0435\u0440\u0435\u0432\u043e \u043d\u0430 \u0434\u043e\u0440\u043e\u0433\u0435", "requirements": [{"requirement": "\u043f\u043e\u0436\u0430\u0440\u043d\u044b\u0435 \u043c\u0430\u0448\u0438\u043d\u044b", "qty": "1"}]}
+{"missionId": "12", "missionName": "Дерево на дороге", "requirements": [{"requirement": "пожарные машины", "qty": "1"}], "credits": "310"}

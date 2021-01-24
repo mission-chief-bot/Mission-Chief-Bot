@@ -1,1 +1,1 @@
-{"missionId": "124", "missionName": "Resuscitace pomocí AED", "requirements": [{"requirement": "ambulance", "qty": 1}]}
+{"missionId": "124", "missionName": "Resuscitace pomocí AED", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "1300"}

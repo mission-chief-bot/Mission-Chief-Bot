@@ -1,1 +1,1 @@
-{"missionId": "233", "missionName": "Pilny transport międzyszpitalny", "requirements": [{"requirement": "ambulanse", "qty": "1"}, {"requirement": "maks. pacjenci", "qty": "1"}]}
+{"missionId": "233", "missionName": "Pilny transport międzyszpitalny", "requirements": [{"requirement": "ambulanse", "qty": "1"}, {"requirement": "maks. pacjenci", "qty": "1"}], "credits": "1500"}

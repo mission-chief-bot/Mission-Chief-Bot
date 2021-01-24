@@ -1,1 +1,1 @@
-{"missionId": "104", "missionName": "Feuer in Einfamilienhaus", "requirements": [{"requirement": "löschfahrzeuge", "qty": "3"}, {"requirement": "drehleitern", "qty": "1"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "3"}]}
+{"missionId": "104", "missionName": "Feuer in Einfamilienhaus", "requirements": [{"requirement": "löschfahrzeuge", "qty": "3"}, {"requirement": "drehleitern", "qty": "1"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "3"}], "credits": "2000"}

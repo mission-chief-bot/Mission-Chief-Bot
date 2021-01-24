@@ -1,1 +1,1 @@
-{"missionId": "115", "missionName": "Pomoc Policji w otwarciu mieszkania", "requirements": [{"requirement": "samochody pożarnicze", "qty": "1"}, {"requirement": "radiowozy", "qty": "1"}, {"requirement": "maks. pacjenci", "qty": "1"}]}
+{"missionId": "115", "missionName": "Pomoc Policji w otwarciu mieszkania", "requirements": [{"requirement": "samochody pożarnicze", "qty": "1"}, {"requirement": "radiowozy", "qty": "1"}, {"requirement": "maks. pacjenci", "qty": "1"}], "credits": "1000"}

@@ -1,1 +1,1 @@
-{"missionId": "95", "missionName": "Ausgedehnte Ölspur", "requirements": [{"requirement": "streifenwagen", "qty": "2"}, {"requirement": "löschfahrzeuge", "qty": "6"}, {"requirement": "gw-öl", "qty": "1"}, {"requirement": "elw 1", "qty": "1"}]}
+{"missionId": "95", "missionName": "Ausgedehnte Ölspur", "requirements": [{"requirement": "streifenwagen", "qty": "2"}, {"requirement": "löschfahrzeuge", "qty": "6"}, {"requirement": "gw-öl", "qty": "1"}, {"requirement": "elw 1", "qty": "1"}], "credits": "4000"}

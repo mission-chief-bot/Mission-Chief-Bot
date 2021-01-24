@@ -1,1 +1,1 @@
-{"missionId": "336", "missionName": "Absicherung Betankung", "requirements": [{"requirement": "flugfeldlöschfahrzeuge", "qty": "2"}, {"requirement": "löschfahrzeuge", "qty": "1"}]}
+{"missionId": "336", "missionName": "Absicherung Betankung", "requirements": [{"requirement": "flugfeldlöschfahrzeuge", "qty": "2"}, {"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "500"}

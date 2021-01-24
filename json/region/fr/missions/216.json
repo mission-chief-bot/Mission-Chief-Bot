@@ -1,1 +1,1 @@
-{"missionId": "216", "missionName": "Exécution de mandat d'arrêt", "requirements": [{"requirement": "voitures de police es", "qty": "5"}, {"requirement": "soutien aérien fag", "qty": "1"}, {"requirement": "probabilité qu'un soutien aérien fag soit", "qty": "40"}]}
+{"missionId": "216", "missionName": "Exécution de mandat d'arrêt", "requirements": [{"requirement": "voitures de police es", "qty": "5"}, {"requirement": "soutien aérien fag", "qty": "1"}, {"requirement": "probabilité qu'un soutien aérien fag soit", "qty": "40"}], "credits": "2000"}

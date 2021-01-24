@@ -1,1 +1,1 @@
-{"missionId": "265", "missionName": "Vliegtuig met hydraulisch probleem", "requirements": [{"requirement": "afo/osc", "qty": "1"}, {"requirement": "tankautospuiten", "qty": "1"},{"requirement": "crashtender", "qty": "1"}]}
+{"missionId": "265", "missionName": "Vliegtuig met hydraulisch probleem", "requirements": [{"requirement": "afo/osc", "qty": "1"}, {"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "crashtender", "qty": "1"}], "credits": "1550"}

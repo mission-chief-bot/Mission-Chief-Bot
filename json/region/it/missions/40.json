@@ -1,1 +1,1 @@
-{"missionId": "40", "missionName": "Caduta accidentale", "requirements": [{"requirement": "max pazienti", "qty": "1"}, {"requirement": "possibili estensioni ospedaliere", "qty": "Medicina interna generaleTraumatologia"}]}
+{"missionId": "40", "missionName": "Caduta accidentale", "requirements": [{"requirement": "max pazienti", "qty": "1"}, {"requirement": "possibili estensioni ospedaliere", "qty": "Medicina interna generaleTraumatologia"}], "credits": "0"}

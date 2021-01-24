@@ -1,1 +1,1 @@
-{"missionId": "183", "missionName": "Incendio capannone", "requirements": [{"requirement": "aps/abp", "qty": "2"}, {"requirement": "unit\u00e0 polisoccorso", "qty": "1"}, {"requirement": "autoscale", "qty": "1"}, {"requirement": "funzionari", "qty": "1"}]}
+{"missionId": "183", "missionName": "Incendio capannone", "requirements": [{"requirement": "aps/abp", "qty": "2"}, {"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "autoscale", "qty": "1"}, {"requirement": "funzionari", "qty": "1"}], "credits": "6"}

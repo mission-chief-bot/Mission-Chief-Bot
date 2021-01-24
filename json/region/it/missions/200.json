@@ -1,1 +1,1 @@
-{"missionId": "200", "missionName": "Frattura di femore", "requirements": [{"requirement": "max pazienti", "qty": "1"}, {"requirement": "possibili estensioni ospedaliere", "qty": "Medicina interna generaleTraumatologia"}]}
+{"missionId": "200", "missionName": "Frattura di femore", "requirements": [{"requirement": "max pazienti", "qty": "1"}, {"requirement": "possibili estensioni ospedaliere", "qty": "Medicina interna generaleTraumatologia"}], "credits": "0"}

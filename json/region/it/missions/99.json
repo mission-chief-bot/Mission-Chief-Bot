@@ -1,1 +1,1 @@
-{"missionId": "99", "missionName": "Veicolo di trasporto merci pesante in fiamme", "requirements": [{"requirement": "aps/abp", "qty": "3"}, {"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "pattuglie", "qty": "1"}]}
+{"missionId": "99", "missionName": "Veicolo di trasporto merci pesante in fiamme", "requirements": [{"requirement": "aps/abp", "qty": "3"}, {"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "pattuglie", "qty": "1"}], "credits": "2000"}

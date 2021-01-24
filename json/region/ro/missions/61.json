@@ -1,1 +1,1 @@
-{"missionId": "61", "missionName": "Accident de avion u\u0219or (Aerodrom)", "requirements": [{"requirement": "ma\u0219ini de pompieri necesare", "qty": "1"}, {"requirement": "max. pacien\u021bi", "qty": "4"}]}
+{"missionId": "61", "missionName": "Accident de avion ușor (Aerodrom)", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "1"}, {"requirement": "max. pacienți", "qty": "4"}], "credits": "2500"}

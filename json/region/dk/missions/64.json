@@ -1,1 +1,1 @@
-{"missionId": "64", "missionName": "Uheld med bus", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "2"}, {"requirement": "påkrævede redningsvogn", "qty": "1"}, {"requirement": "maks. antal patienter", "qty": "12"}]}
+{"missionId": "64", "missionName": "Uheld med bus", "requirements": [{"requirement": "påkrævede brandbiler", "qty": "2"}, {"requirement": "påkrævede redningsvogn", "qty": "1"}, {"requirement": "maks. antal patienter", "qty": "12"}], "credits": "1000"}

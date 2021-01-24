@@ -1,1 +1,1 @@
-{"missionId": "127", "missionName": "Fire in silo", "requirements": [{"requirement": "fire engines", "qty": "4"}, {"requirement": "turntable ladder trucks", "qty": "1"}, {"requirement": "major rescue vehicles", "qty": "1"}, {"requirement": "support vehicles", "qty": "2"}]}
+{"missionId": "127", "missionName": "Fire in silo", "requirements": [{"requirement": "fire engines", "qty": "4"}, {"requirement": "turntable ladder trucks", "qty": "1"}, {"requirement": "major rescue vehicles", "qty": "1"}, {"requirement": "support vehicles", "qty": "2"}], "credits": "8"}

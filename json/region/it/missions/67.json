@@ -1,1 +1,1 @@
-{"missionId": "67", "missionName": "Rissa", "requirements": [{"requirement": "pattuglie", "qty": "3"}, {"requirement": "max pazienti", "qty": "3"}, {"requirement": "possibili estensioni ospedaliere", "qty": "Medicina interna generaleTraumatologia"}]}
+{"missionId": "67", "missionName": "Rissa", "requirements": [{"requirement": "pattuglie", "qty": "3"}, {"requirement": "max pazienti", "qty": "3"}, {"requirement": "possibili estensioni ospedaliere", "qty": "Medicina interna generaleTraumatologia"}], "credits": "700"}

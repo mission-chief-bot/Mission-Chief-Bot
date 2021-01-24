@@ -1,1 +1,1 @@
-{"missionId": "113", "missionName": "Caduta da parete rocciosa", "requirements": [{"requirement": "unità polisoccorso", "qty": "2"}, {"requirement": "max pazienti", "qty": "1"}, {"requirement": "possibili estensioni ospedaliere", "qty": "Medicina interna generaleTraumatologia"}]}
+{"missionId": "113", "missionName": "Caduta da parete rocciosa", "requirements": [{"requirement": "unità polisoccorso", "qty": "2"}, {"requirement": "max pazienti", "qty": "1"}, {"requirement": "possibili estensioni ospedaliere", "qty": "Medicina interna generaleTraumatologia"}], "credits": "1200"}

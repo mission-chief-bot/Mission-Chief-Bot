@@ -1,1 +1,1 @@
-{"missionId": "179", "missionName": "Voragine stradale", "requirements": [{"requirement": "aps/abp", "qty": "1"}, {"requirement": "unit\u00e0 polisoccorso", "qty": "1"}, {"requirement": "pattuglie", "qty": "2"}]}
+{"missionId": "179", "missionName": "Voragine stradale", "requirements": [{"requirement": "aps/abp", "qty": "1"}, {"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "pattuglie", "qty": "2"}], "credits": "4"}

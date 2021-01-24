@@ -1,1 +1,1 @@
-{"missionId": "266", "missionName": "Vliegtuig met rook in cabine", "requirements": [{"requirement": "tankautospuiten", "qty": "1"},{"requirement": "afo/osc", "qty": "1"}, {"requirement": "crashtender", "qty": "2"}]}
+{"missionId": "266", "missionName": "Vliegtuig met rook in cabine", "requirements": [{"requirement": "tankautospuiten", "qty": "1"}, {"requirement": "afo/osc", "qty": "1"}, {"requirement": "crashtender", "qty": "2"}], "credits": "1550"}

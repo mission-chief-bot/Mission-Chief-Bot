@@ -1,1 +1,1 @@
-{"missionId": "197", "missionName": "Aktiveret overfaldsalarm", "requirements": [{"requirement": "påkrævede politibiler", "qty": "6"}, {"requirement": "påkrævede indsatsleder politi", "qty": "1"}, {"requirement": "maks. antal patienter", "qty": "1"}]}
+{"missionId": "197", "missionName": "Aktiveret overfaldsalarm", "requirements": [{"requirement": "påkrævede politibiler", "qty": "6"}, {"requirement": "påkrævede indsatsleder politi", "qty": "1"}, {"requirement": "maks. antal patienter", "qty": "1"}], "credits": "3000"}

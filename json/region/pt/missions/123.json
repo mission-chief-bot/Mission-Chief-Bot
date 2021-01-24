@@ -1,1 +1,1 @@
-{"missionId": "123", "missionName": "Pequeno incêndio num hotel", "requirements": [{"requirement": "corpos de bombeiros necessários:", "qty": "4"}, {"requirement": "veículos de combate a incêndios necessários:", "qty": "4"}, {"requirement": "máx. de pacientes:", "qty": "6"}]}
+{"missionId": "123", "missionName": "Pequeno incêndio num hotel", "requirements": [{"requirement": "corpos de bombeiros necessários:", "qty": "4"}, {"requirement": "veículos de combate a incêndios necessários:", "qty": "4"}, {"requirement": "máx. de pacientes:", "qty": "6"}], "credits": "3000"}

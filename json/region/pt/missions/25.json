@@ -1,1 +1,1 @@
-{"missionId": "25", "missionName": "Acidente de viação", "requirements": [{"requirement": "corpos de bombeiros necessários:", "qty": "3"}, {"requirement": "veículos de combate a incêndios necessários:", "qty": "1"}, {"requirement": "máx. de pacientes:", "qty": "1"}]}
+{"missionId": "25", "missionName": "Acidente de viação", "requirements": [{"requirement": "corpos de bombeiros necessários:", "qty": "3"}, {"requirement": "veículos de combate a incêndios necessários:", "qty": "1"}, {"requirement": "máx. de pacientes:", "qty": "1"}], "credits": "1000"}

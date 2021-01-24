@@ -1,1 +1,1 @@
-{"missionId": "25", "missionName": "Verkehrsunfall", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "1"}]}
+{"missionId": "25", "missionName": "Verkehrsunfall", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "1000"}

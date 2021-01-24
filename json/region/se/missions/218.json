@@ -1,1 +1,1 @@
-{"missionId": "218", "missionName": "Räddning, kontroll efter brand", "requirements": [{"requirement": "sl\u00e4ckbilar", "qty": "2"}, {"requirement": "brandbef\u00e4l", "qty": "1"}, {"requirement": "stegbilar", "qty": "1"}, {"requirement": "mest patienter", "qty": "4"}]}
+{"missionId": "218", "missionName": "Räddning, kontroll efter brand", "requirements": [{"requirement": "släckbilar", "qty": "2"}, {"requirement": "brandbefäl", "qty": "1"}, {"requirement": "stegbilar", "qty": "1"}, {"requirement": "mest patienter", "qty": "4"}], "credits": "1000"}
