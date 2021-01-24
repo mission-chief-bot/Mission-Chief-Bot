@@ -1,1 +1,1 @@
-{"missionId": "277", "missionName": "Person im Aufzug", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "1"}]}
+{"missionId": "277", "missionName": "Person im Aufzug", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "350"}

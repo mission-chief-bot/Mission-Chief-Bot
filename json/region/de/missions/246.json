@@ -1,1 +1,1 @@
-{"missionId": "246", "missionName": "Person in Wasser", "requirements": [{"requirement": "boote", "qty": "1"}, {"requirement": "löschfahrzeuge", "qty": "3"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "1"}]}
+{"missionId": "246", "missionName": "Person in Wasser", "requirements": [{"requirement": "boote", "qty": "1"}, {"requirement": "löschfahrzeuge", "qty": "3"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "1400"}

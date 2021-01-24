@@ -1,1 +1,1 @@
-{"missionId": "438", "missionName": "Serve court order", "requirements": [{"requirement": "sheriffs", "qty": "1"}, {"requirement": "police cars", "qty": "1"}]}
+{"missionId": "438", "missionName": "Serve court order", "requirements": [{"requirement": "sheriffs", "qty": "1"}, {"requirement": "police cars", "qty": "1"}], "credits": "150"}

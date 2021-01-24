@@ -1,1 +1,1 @@
-{"missionId": "20", "missionName": "Kellerbrand", "requirements": [{"requirement": "elw 1", "qty": "1"}, {"requirement": "löschfahrzeuge", "qty": "3"}, {"requirement": "maximale patientenanzahl", "qty": "2"}]}
+{"missionId": "20", "missionName": "Kellerbrand", "requirements": [{"requirement": "elw 1", "qty": "1"}, {"requirement": "löschfahrzeuge", "qty": "3"}, {"requirement": "maximale patientenanzahl", "qty": "2"}], "credits": "2500"}

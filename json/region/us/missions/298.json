@@ -1,1 +1,1 @@
-{"missionId": "298", "missionName": "Large brawl", "requirements": [{"requirement": "k-9 units", "qty": "1"}, {"requirement": "police cars", "qty": "8"}, {"requirement": "max. patients", "qty": "10"}]}
+{"missionId": "298", "missionName": "Large brawl", "requirements": [{"requirement": "k-9 units", "qty": "1"}, {"requirement": "police cars", "qty": "8"}, {"requirement": "ems chief", "qty": "1"}, {"requirement": "max. patients", "qty": "10"}], "credits": "2500"}

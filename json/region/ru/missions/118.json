@@ -1,1 +1,1 @@
-{"missionId": "118", "missionName": "\u0411\u043e\u043b\u0438 \u0432 \u0441\u043f\u0438\u043d\u0435", "requirements": [{"requirement": "\u043c\u0430\u043a\u0441. \u043f\u0430\u0446\u0438\u0435\u043d\u0442\u044b", "qty": "1"}]}
+{"missionId": "118", "missionName": "Боли в спине", "requirements": [{"requirement": "макс. пациенты", "qty": "1"}], "credits": "0"}

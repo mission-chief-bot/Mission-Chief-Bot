@@ -1,1 +1,1 @@
-{"missionId": "234", "missionName": "Entschärfung von Weltkriegsbombe", "requirements": [{"requirement": "streifenwagen", "qty": "5"}, {"requirement": "löschfahrzeuge", "qty": "10"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "elw 2", "qty": "1"}]}
+{"missionId": "234", "missionName": "Entschärfung von Weltkriegsbombe", "requirements": [{"requirement": "streifenwagen", "qty": "5"}, {"requirement": "löschfahrzeuge", "qty": "10"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "elw 2", "qty": "1"}], "credits": "4000"}

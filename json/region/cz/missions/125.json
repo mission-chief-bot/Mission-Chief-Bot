@@ -1,1 +1,1 @@
-{"missionId": "125", "missionName": "Snesení pacienta", "requirements": [{"requirement": "ambulance", "qty": 1}]}
+{"missionId": "125", "missionName": "Snesení pacienta", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "1300"}

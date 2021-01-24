@@ -1,1 +1,1 @@
-{"missionId": "34", "missionName": "Požár v nemocnici", "requirements": [{"requirement": "ambulance", "qty": 1}]}
+{"missionId": "34", "missionName": "Požár v nemocnici", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "6000"}

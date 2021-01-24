@@ -1,1 +1,1 @@
-{"missionId": "330", "missionName": "Überhitzte Bremsen", "requirements": [{"requirement": "flugfeldlöschfahrzeuge", "qty": "1"}, {"requirement": "rettungstreppen", "qty": "1"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "löschfahrzeuge", "qty": "1"}]}
+{"missionId": "330", "missionName": "Überhitzte Bremsen", "requirements": [{"requirement": "flugfeldlöschfahrzeuge", "qty": "1"}, {"requirement": "rettungstreppen", "qty": "1"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "2000"}

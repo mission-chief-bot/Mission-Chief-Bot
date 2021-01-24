@@ -1,1 +1,1 @@
-{"missionId": "343", "missionName": "Triebwerksbrand", "requirements": [{"requirement": "flugfeldlöschfahrzeuge", "qty": "4"}, {"requirement": "rüstwagen", "qty": "1"}, {"requirement": "löschfahrzeuge", "qty": "2"}, {"requirement": "elw 1", "qty": "1"}]}
+{"missionId": "343", "missionName": "Triebwerksbrand", "requirements": [{"requirement": "flugfeldlöschfahrzeuge", "qty": "4"}, {"requirement": "rüstwagen", "qty": "1"}, {"requirement": "löschfahrzeuge", "qty": "2"}, {"requirement": "elw 1", "qty": "1"}], "credits": "2500"}

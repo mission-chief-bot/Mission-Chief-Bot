@@ -1,1 +1,1 @@
-{"missionId": "187", "missionName": "Feuer im Lagerraum", "requirements": [{"requirement": "löschfahrzeuge", "qty": "2"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "drehleitern", "qty": "1"}, {"requirement": "gw-mess", "qty": "1"}]}
+{"missionId": "187", "missionName": "Feuer im Lagerraum", "requirements": [{"requirement": "löschfahrzeuge", "qty": "2"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "drehleitern", "qty": "1"}, {"requirement": "gw-mess", "qty": "1"}], "credits": "2230"}

@@ -1,1 +1,1 @@
-{"missionId": "202", "missionName": "Infarto", "requirements": [{"requirement": "max pazienti", "qty": "1"}, {"requirement": "possibili estensioni ospedaliere", "qty": "CardiologiaChirurgia cardiaca"}]}
+{"missionId": "202", "missionName": "Infarto", "requirements": [{"requirement": "max pazienti", "qty": "1"}, {"requirement": "possibili estensioni ospedaliere", "qty": "CardiologiaChirurgia cardiaca"}], "credits": "0"}

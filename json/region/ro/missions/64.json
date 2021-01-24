@@ -1,1 +1,1 @@
-{"missionId": "64", "missionName": "Accident \u00een care este implicat un autobuz", "requirements": [{"requirement": "ma\u0219ini de pompieri necesare", "qty": "2"}, {"requirement": "vehicule grele de salvare necesare", "qty": "1"}, {"requirement": "max. pacien\u021bi", "qty": "12"}]}
+{"missionId": "64", "missionName": "Accident în care este implicat un autobuz", "requirements": [{"requirement": "mașini de pompieri necesare", "qty": "2"}, {"requirement": "vehicule grele de salvare necesare", "qty": "1"}, {"requirement": "max. pacienți", "qty": "12"}], "credits": "1000"}

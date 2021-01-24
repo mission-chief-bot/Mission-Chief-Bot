@@ -1,1 +1,1 @@
-{"missionId": "30", "missionName": "Únik plynu", "requirements": [{"requirement": "ambulance", "qty": 1}]}
+{"missionId": "30", "missionName": "Únik plynu", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "400"}

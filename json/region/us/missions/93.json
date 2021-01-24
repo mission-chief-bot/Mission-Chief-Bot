@@ -1,1 +1,1 @@
-{"missionId": "93", "missionName": "Baseball Game", "requirements": [{"requirement": "firetrucks", "qty": "1"}, {"requirement": "ambulances", "qty": "2"}, {"requirement": "police cars", "qty": "2"}]}
+{"missionId": "93", "missionName": "Baseball Game", "requirements": [{"requirement": "firetrucks", "qty": "1"}, {"requirement": "ambulances", "qty": "2"}, {"requirement": "police cars", "qty": "2"}], "credits": "4400"}

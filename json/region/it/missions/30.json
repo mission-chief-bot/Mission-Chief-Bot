@@ -1,1 +1,1 @@
-{"missionId": "30", "missionName": "Perdita di gas", "requirements": [{"requirement": "aps/abp", "qty": "1"}, {"requirement": "unità polisoccorso", "qty": "1"}]}
+{"missionId": "30", "missionName": "Perdita di gas", "requirements": [{"requirement": "aps/abp", "qty": "1"}, {"requirement": "unità polisoccorso", "qty": "1"}], "credits": "400"}

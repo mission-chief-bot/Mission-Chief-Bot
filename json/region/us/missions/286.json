@@ -1,1 +1,1 @@
-{"missionId": "286", "missionName": "Stowaways found", "requirements": [{"requirement": "firetrucks", "qty": "1"}, {"requirement": "police cars", "qty": "8"}, {"requirement": "k-9 units", "qty": "1"}, {"requirement": "max. patients", "qty": "10"}]}
+{"missionId": "286", "missionName": "Stowaways found", "requirements": [{"requirement": "firetrucks", "qty": "1"}, {"requirement": "police cars", "qty": "8"}, {"requirement": "k-9 units", "qty": "1"}, {"requirement": "ems chief", "qty": "1"}, {"requirement": "max. patients", "qty": "10"}], "credits": "2000"}

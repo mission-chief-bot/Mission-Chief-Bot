@@ -1,1 +1,1 @@
-{"missionId": "38", "missionName": "Epilessia", "requirements": [{"requirement": "max pazienti", "qty": "1"}, {"requirement": "possibili estensioni ospedaliere", "qty": "NeurologiaNeurochirurgia"}]}
+{"missionId": "38", "missionName": "Epilessia", "requirements": [{"requirement": "max pazienti", "qty": "1"}, {"requirement": "possibili estensioni ospedaliere", "qty": "NeurologiaNeurochirurgia"}], "credits": "3"}

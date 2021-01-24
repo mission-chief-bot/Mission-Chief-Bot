@@ -1,1 +1,1 @@
-{"missionId": "328", "missionName": "Rauch in Kabine", "requirements": [{"requirement": "löschfahrzeuge", "qty": "2"}, {"requirement": "flugfeldlöschfahrzeuge", "qty": "1"}, {"requirement": "rettungstreppen", "qty": "1"}]}
+{"missionId": "328", "missionName": "Rauch in Kabine", "requirements": [{"requirement": "löschfahrzeuge", "qty": "2"}, {"requirement": "flugfeldlöschfahrzeuge", "qty": "1"}, {"requirement": "rettungstreppen", "qty": "1"}], "credits": "1200"}

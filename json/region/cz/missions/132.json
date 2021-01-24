@@ -1,1 +1,1 @@
-{"missionId": "132", "missionName": "Nouzové otevření bytu", "requirements": [{"requirement": "ambulance", "qty": 1}]}
+{"missionId": "132", "missionName": "Nouzové otevření bytu", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "800"}

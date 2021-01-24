@@ -1,1 +1,1 @@
-{"missionId": "119", "missionName": "Возгорание соломенного тюка", "requirements": [{"requirement": "пожарные машины", "qty": "5"}, {"requirement": "машины командира батальона", "qty": "1"}, {"requirement": "цистерны с водой", "qty": "1"}]}
+{"missionId": "119", "missionName": "Возгорание соломенного тюка", "requirements": [{"requirement": "пожарные машины", "qty": "5"}, {"requirement": "машины командира батальона", "qty": "1"}, {"requirement": "цистерны с водой", "qty": "1"}], "credits": "1500"}

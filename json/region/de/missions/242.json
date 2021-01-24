@@ -1,1 +1,1 @@
-{"missionId": "242", "missionName": "Pfefferspray in Schule", "requirements": [{"requirement": "löschfahrzeuge", "qty": "2"}, {"requirement": "gw-mess", "qty": "1"}, {"requirement": "streifenwagen", "qty": "3"}, {"requirement": "maximale patientenanzahl", "qty": "15"}]}
+{"missionId": "242", "missionName": "Pfefferspray in Schule", "requirements": [{"requirement": "löschfahrzeuge", "qty": "2"}, {"requirement": "gw-mess", "qty": "1"}, {"requirement": "streifenwagen", "qty": "3"}, {"requirement": "maximale patientenanzahl", "qty": "15"}], "credits": "2100"}

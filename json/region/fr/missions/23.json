@@ -1,1 +1,1 @@
-{"missionId": "23", "missionName": "Feu d'hydrocarbures", "requirements": [{"requirement": "fourgons d’incendie", "qty": "2"}, {"requirement": "camions-citernes", "qty": "1"}, {"requirement": "moyen elévateur aérien", "qty": "1"}, {"requirement": "chefs de groupe", "qty": "1"}]}
+{"missionId": "23", "missionName": "Feu d'hydrocarbures", "requirements": [{"requirement": "fourgons d’incendie", "qty": "2"}, {"requirement": "camions-citernes", "qty": "1"}, {"requirement": "moyen elévateur aérien", "qty": "1"}, {"requirement": "chefs de groupe", "qty": "1"}], "credits": "1500"}

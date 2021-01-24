@@ -1,1 +1,1 @@
-{"missionId": "22", "missionName": "Пожар на крыше", "requirements": [{"requirement": "платформы", "qty": "1"}, {"requirement": "пожарные машины", "qty": "3"}, {"requirement": "машины командира батальона", "qty": "1"}]}
+{"missionId": "22", "missionName": "Пожар на крыше", "requirements": [{"requirement": "платформы", "qty": "1"}, {"requirement": "пожарные машины", "qty": "3"}, {"requirement": "машины командира батальона", "qty": "1"}], "credits": "2700"}

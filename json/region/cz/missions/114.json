@@ -1,1 +1,1 @@
-{"missionId": "114", "missionName": "Hledání vozidla", "requirements": [{"requirement": "ambulance", "qty": 1}]}
+{"missionId": "114", "missionName": "Hledání vozidla", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "6"}

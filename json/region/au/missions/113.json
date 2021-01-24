@@ -1,1 +1,1 @@
-{"missionId": "113", "missionName": "Garbage truck fire", "requirements": [{"requirement": "fire engines", "qty": "3"}, {"requirement": "support vehicles", "qty": "2"}, {"requirement": "water carriers", "qty": "1"}, {"requirement": "police cars", "qty": "1"}]}
+{"missionId": "113", "missionName": "Garbage truck fire", "requirements": [{"requirement": "fire engines", "qty": "3"}, {"requirement": "support vehicles", "qty": "2"}, {"requirement": "water carriers", "qty": "1"}, {"requirement": "police cars", "qty": "1"}], "credits": "2000"}

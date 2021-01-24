@@ -1,1 +1,1 @@
-{"missionId": "97", "missionName": "Aufgerissener Öltank", "requirements": [{"requirement": "löschfahrzeuge", "qty": "3"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "gw-öl", "qty": "1"}]}
+{"missionId": "97", "missionName": "Aufgerissener Öltank", "requirements": [{"requirement": "löschfahrzeuge", "qty": "3"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "gw-öl", "qty": "1"}], "credits": "2500"}
